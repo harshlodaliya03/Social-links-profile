@@ -10,7 +10,7 @@ This is my solution to the [Social Links Profile challenge on Frontend Mentor](h
 
 ## 🔗 Live Demo
 
-👉 [View Live Site](https://harshlodaliya03.github.io/social-links-profile)
+👉 [View Live Site](https://harshlodaliya03.github.io/Social-links-profile/)
 
 ---
 
